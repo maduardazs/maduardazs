@@ -61,7 +61,7 @@
 <div align="center">
   <samp>
     <b>
-      Contact me:
+     Me:
     </b>
   </samp>
   <br>
